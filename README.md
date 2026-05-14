@@ -6,7 +6,7 @@ Benjamin // [Unity Pro] Building towards Steam
 
 <img width="347" height="140" alt="image" src="https://github.com/user-attachments/assets/82af67d4-52ce-4ac9-a5aa-4c1c420da7e7" />
 
-[VSCode Mogger] // [Codex Addict]
+[VSCode Mogger] // [Codex Addict] // [C# Maxxing] // [Gamedesign Mogging]
 
 
 
@@ -15,15 +15,3 @@ Benjamin // [Unity Pro] Building towards Steam
 
 
 <img width="378" height="120" alt="image" src="https://github.com/user-attachments/assets/16c6cc79-8143-46ac-a6f9-1ec8f49acb91" />
-
-Benja/Skills
-
-{
-
-  Unity
-  
-  C#
-
-  Gamedesign
-
-}
